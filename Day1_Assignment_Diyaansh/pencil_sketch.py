@@ -60,7 +60,7 @@ def main():
         else:
             break
 
-    blur_kernel = int(input("Enter blur kernel (Odd integer, Recommended: 21): "))
+    blur_kernel = int(input("Enter blur kernel (Odd integer, Recommended(test2): 101, Recommended(test1&3):21): "))
     if blur_kernel % 2 == 0:
         blur_kernel += 1
         print(f"Even blur kernel size detected. Modified to {blur_kernel}")
