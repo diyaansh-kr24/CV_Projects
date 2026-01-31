@@ -1,0 +1,13 @@
+total_circles: 9
+min_radius: 38
+max_radius: 164
+mean_radius: 89.88888888888889
+Circle ID: 205, Center: (205, 433), Radius: 164
+Circle ID: 531, Center: (531, 253), Radius: 86
+Circle ID: 266, Center: (266, 225), Radius: 124
+Circle ID: 524, Center: (524, 519), Radius: 61
+Circle ID: 113, Center: (113, 131), Radius: 90
+Circle ID: 363, Center: (363, 131), Radius: 64
+Circle ID: 447, Center: (447, 496), Radius: 38
+Circle ID: 545, Center: (545, 151), Radius: 38
+Circle ID: 185, Center: (185, 423), Radius: 144

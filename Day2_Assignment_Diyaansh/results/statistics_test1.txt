@@ -1,0 +1,9 @@
+total_circles: 5
+min_radius: 22
+max_radius: 91
+mean_radius: 51.4
+Circle ID: 190, Center: (190, 382), Radius: 91
+Circle ID: 348, Center: (348, 282), Radius: 64
+Circle ID: 202, Center: (202, 224), Radius: 22
+Circle ID: 282, Center: (282, 118), Radius: 39
+Circle ID: 138, Center: (138, 136), Radius: 41
